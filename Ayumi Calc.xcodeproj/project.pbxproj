@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		2AA2BAE525D3CA6400D38458 /* Dean's Calc.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Dean's Calc.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2AA2BAE525D3CA6400D38458 /* Ayumi Calc.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Ayumi Calc.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2AA2BAE825D3CA6400D38458 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2AA2BAEA25D3CA6400D38458 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		2AA2BAEC25D3CA6400D38458 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		2AA2BAE625D3CA6400D38458 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				2AA2BAE525D3CA6400D38458 /* Dean's Calc.app */,
+				2AA2BAE525D3CA6400D38458 /* Ayumi Calc.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -70,9 +70,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		2AA2BAE425D3CA6400D38458 /* Dean's Calc */ = {
+		2AA2BAE425D3CA6400D38458 /* Ayumi Calc */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2AA2BAF925D3CA6500D38458 /* Build configuration list for PBXNativeTarget "Dean's Calc" */;
+			buildConfigurationList = 2AA2BAF925D3CA6500D38458 /* Build configuration list for PBXNativeTarget "Ayumi Calc" */;
 			buildPhases = (
 				2AA2BAE125D3CA6400D38458 /* Sources */,
 				2AA2BAE225D3CA6400D38458 /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = "Dean's Calc";
+			name = "Ayumi Calc";
 			productName = "Dean's Calc";
-			productReference = 2AA2BAE525D3CA6400D38458 /* Dean's Calc.app */;
+			productReference = 2AA2BAE525D3CA6400D38458 /* Ayumi Calc.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -101,7 +101,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 2AA2BAE025D3CA6400D38458 /* Build configuration list for PBXProject "Dean's Calc" */;
+			buildConfigurationList = 2AA2BAE025D3CA6400D38458 /* Build configuration list for PBXProject "Ayumi Calc" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -114,7 +114,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				2AA2BAE425D3CA6400D38458 /* Dean's Calc */,
+				2AA2BAE425D3CA6400D38458 /* Ayumi Calc */,
 			);
 		};
 /* End PBXProject section */
@@ -322,7 +322,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		2AA2BAE025D3CA6400D38458 /* Build configuration list for PBXProject "Dean's Calc" */ = {
+		2AA2BAE025D3CA6400D38458 /* Build configuration list for PBXProject "Ayumi Calc" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2AA2BAF725D3CA6500D38458 /* Debug */,
@@ -331,7 +331,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2AA2BAF925D3CA6500D38458 /* Build configuration list for PBXNativeTarget "Dean's Calc" */ = {
+		2AA2BAF925D3CA6500D38458 /* Build configuration list for PBXNativeTarget "Ayumi Calc" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2AA2BAFA25D3CA6500D38458 /* Debug */,
